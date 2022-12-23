@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+h1 {
+    
+    font-style: normal;
+    font-weight: 400;
+    font-size: 70px;
+    line-height: 17px;
+    text-align: center;
+    color: #F94F6D;
+}
+
+h3 {
+    text-align: center;
+}
+
+div {
+    display:inline-block;
+}
